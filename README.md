@@ -4,6 +4,7 @@ Here is the content structured as a clean, professional README.md section. You c
 🧠 JavaScript Memory Management: Stack vs. Heap
 A deep dive into how JavaScript engines allocate memory and how to prevent performance-degrading memory leaks.
 
+
 🏗️ Memory Architecture
 JavaScript uses two distinct structures to manage data during execution: The Stack and The Heap.
 
